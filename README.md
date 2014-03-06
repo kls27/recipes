@@ -1,4 +1,3 @@
-recipes
-=======
+#Recipe Repo
 
-GitHub Training Repo
+This repository contains tasty open-source recipes
